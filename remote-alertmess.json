@@ -1,8 +1,8 @@
 {
-  "id": "alert-test-109",
-  "title": "Кажется самое время…",
-  "body": "Отправить логи разработчику. Сделаем? 🥺",
-  "background": "home_header_sad_bg",
+  "id": "alert-test-110",
+  "title": "Тестовая\nотладка перед релизом 110",
+  "body": "Это сообщение было успешно доставлено.",
+  "background": "home_header_cool_bg",
   "showAt": "2026-04-13T09:00:00+12:00",
   "isActive": true
 }
