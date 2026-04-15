@@ -1,8 +1,8 @@
 {
-  "id": "alert-mess-4",
-  "title": "Кажется самое время…",
-  "body": "Отправить логи разработчику. Сделаем? 🥺",
-  "background": "home_header_sad_bg",
-  "showAt": "2026-04-15T15:00:00+12:00",
+  "id": "alert-mess-10",
+  "title": "Приложение обновлено! ✅",
+  "body": "Самое время чтобы тестировать новые фичи🤌",
+  "background": "home_header_cool_bg",
+  "showAt": "2026-04-16T09:00:00+12:00",
   "isActive": true
 }
