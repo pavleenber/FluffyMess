@@ -1,12 +1,13 @@
 {
-  "id": "alert-action-profile-003",
-  "title": "Загляни\nв профиль",
-  "body": "Там есть полезные настройки.",
-  "background": "home_header_bg",
+  "id": "alert-action-url-test-001",
+  "title": "У нас есть\nновости!",
+  "body": "Нажми, чтобы открыть страницу.",
+  "background": "home_header_cool_bg",
   "action": {
-    "type": "profile",
-    "buttonTitle": "Профиль"
+    "type": "url",
+    "url": "https://example.com",
+    "buttonTitle": "Открыть сайт"
   },
-  "showAt": "2026-04-15T00:00:00+12:00",
+  "showAt": "2026-04-17T00:00:00+12:00",
   "isActive": true
 }
