@@ -1,5 +1,5 @@
 {
-  "id": "alert-action-profile-001",
+  "id": "alert-action-profile-002",
   "title": "Загляни\nв профиль",
   "body": "Там есть полезные настройки.",
   "background": "home_header_bg",
@@ -7,6 +7,6 @@
     "type": "profile",
     "buttonTitle": "Профиль"
   },
-  "showAt": "2026-04-17T12:00:00+12:00",
+  "showAt": "2026-04-15T00:00:00+12:00",
   "isActive": true
 }
