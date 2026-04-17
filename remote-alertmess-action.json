@@ -1,11 +1,11 @@
 {
-  "id": "alert-action-url-1",
+  "id": "alert-action-url-2",
   "title": "Обновлено!",
   "body": "Этот патч исправляет ошибки с лекарстами и не только:",
   "background": "home_header_cool_bg",
   "action": {
     "type": "url",
-    "url": "https://any.coop/AAqhkVBwtZsb1cGmT9eM1ZEqgXGbf7r74wvkNApxNxT4BTde/obnovlenie-ispravlyayuschie-vazhnye-oshibki",
+    "url": "https://goo.su/R0X9o9",
     "buttonTitle": "Узнать про изменения"
   },
   "showAt": "2026-04-12T00:00:00+12:00",
