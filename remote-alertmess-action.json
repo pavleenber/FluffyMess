@@ -1,5 +1,5 @@
 {
-  "id": "alert-action-url-test-016",
+  "id": "alert-action-url-test-020",
   "title": "У нас есть\nновости!",
   "body": "Очень большой текстовый заполнитель чтобы видеть как изменяется расстояние между блоками при большом колличестве текста с кнопкой",
   "background": "home_header_cool_bg",
@@ -8,6 +8,6 @@
     "url": "https://example.com",
     "buttonTitle": "Открыть сайт"
   },
-  "showAt": "2026-04-10T00:00:00+12:00",
+  "showAt": "2026-04-12T00:00:00+12:00",
   "isActive": true
 }
