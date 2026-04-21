@@ -1,13 +1,12 @@
 {
-  "id": "alert-action-url-3",
-  "title": "Обновлено!",
-  "body": "Этот патч исправляет ошибки с лекарстами и не только:",
-  "background": "home_header_cool_bg",
-  "action": {
-    "type": "url",
-    "url": "https://goo.su/R0X9o9",
-    "buttonTitle": "Узнать про изменения"
-  },
-  "showAt": "2026-04-12T00:00:00+12:00",
-  "isActive": true
+"id": "alertmess-action-1",
+"title": "Поговорим и может…",
+"body": "Создадим новое напоминание голосом? 🎙",
+"background": "home_header_sad_bg",
+"action": {
+"type": "voice",
+"buttonTitle": "Создать"
+},
+"showAt": "2026-04-21T18:00:00+12:00",
+"isActive": true
 }
