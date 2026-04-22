@@ -1,12 +1,13 @@
 {
-"id": "alertmess-action-1",
-"title": "Поговорим и может…",
-"body": "Создадим новое напоминание голосом? 🎙",
-"background": "home_header_sad_bg",
+"id": "alertmess-action-2",
+"title": "Как тебе лекарства? 💊",
+"body": "Пройди небольшой опрос чтобы приложение стало ещё лучше:,
+"background": "",
 "action": {
-"type": "voice",
-"buttonTitle": "Создать"
+"type": "url",
+"url": "https://3r9m2baf.forms.app/pillfluffyform",
+"buttonTitle": "Открыть"
 },
-"showAt": "2026-04-21T18:00:00+12:00",
+"showAt": "2026-04-23T09:00:00+12:00",
 "isActive": true
 }
