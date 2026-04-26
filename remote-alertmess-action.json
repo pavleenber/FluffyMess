@@ -1,13 +1,12 @@
 {
-"id": "alertmess-action-2",
-"title": "Как тебе лекарства? 💊",
-"body": "Пройди небольшой опрос чтобы приложение стало ещё лучше:",
+"id": "alertmess-action-3",
+"title": "Понедельник\nдень тяжёлый…",
+"body": "Создадим напоминания чтобы не упустить важного на этой неделе или ну его?",
 "background": "",
 "action": {
-"type": "url",
-"url": "https://3r9m2baf.forms.app/pillfluffyform",
-"buttonTitle": "Открыть"
+"type": "create",
+"buttonTitle": "Создать"
 },
-"showAt": "2026-04-23T09:00:00+12:00",
+"showAt": "2026-04-26T09:00:00+12:00",
 "isActive": true
 }
