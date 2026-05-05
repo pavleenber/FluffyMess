@@ -1,12 +1,13 @@
 {
-"id": "alertmess-action-4",
-"title": "Понедельник\nдень тяжёлый…",
-"body": "Создадим напоминания чтобы не упустить важного на этой неделе или ну его?",
+"id": "alertmess-action-7",
+"title": "Оцените меня\nв App Store?🥹",
+"body": "Меньше 5-ти звезд я\nне принимаю! (Шутка).\nНа самом деле, оценивайте\nтолько сердцем ❤️",
 "background": "",
 "action": {
-"type": "create",
-"buttonTitle": "Создать"
+"type": "url",
+"url": "https://apps.apple.com/app/id6759400835",
+"buttonTitle": "Оценить"
 },
-"showAt": "2026-04-27T09:00:00+12:00",
-"isActive": false
+"showAt": "2026-05-06T09:00:00+12:00",
+"isActive": true
 }
