@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-7",
-"title": "Оцените меня\nв App Store?🥹",
-"body": "Меньше 5-ти звезд я\nне принимаю! (Шутка).\nНа самом деле, оценивайте\nтолько сердцем ❤️",
+"id": "alertmess-action-8",
+"title": "Поговорим\nна чистоту?",
+"body": "Пройдите небольшой опрос\nдля улучшения вашего опыта\nс приложением 👇",
 "background": "",
 "action": {
 "type": "url",
-"url": "https://apps.apple.com/app/id6759400835",
-"buttonTitle": "Оценить"
+"url": "http://fluffyapp.ru/feedback",
+"buttonTitle": "Открыть"
 },
-"showAt": "2026-05-06T09:00:00+12:00",
-"isActive": false
+"showAt": "2026-05-12T09:00:00+12:00",
+"isActive": true
 }
