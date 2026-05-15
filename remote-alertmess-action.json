@@ -2,12 +2,12 @@
 "id": "alertmess-action-8",
 "title": "Поговорим\nна чистоту?",
 "body": "Пройдите небольшой опрос\nдля улучшения вашего опыта\nс приложением 👇",
-"background": "home_headercoolbg",
+"background": "home_header_cool_bg",
 "action": {
 "type": "url",
 "url": "http://fluffyapp.ru/feedback",
 "buttonTitle": "Открыть"
 },
-"showAt": "2026-05-12T09:00:00+12:00",
+"showAt": "2026-05-15T09:00:00+12:00",
 "isActive": true
 }
