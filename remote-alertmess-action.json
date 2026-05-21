@@ -1,13 +1,12 @@
 {
-"id": "alertmess-action-9",
-"title": "Поговорим\nна чистоту?",
-"body": "Пройдите небольшой опрос\nдля улучшения вашего опыта\nс приложением 👇",
-"background": "home_header_cool_bg",
+"id": "alertmess-action-10",
+"title": "Уже давно не слышал тебя 🥺",
+"body": "Создадим пару напоминаний\nголосом?",
+"background": "home_header_sad_bg",
 "action": {
-"type": "url",
-"url": "http://fluffyapp.ru/feedback",
-"buttonTitle": "Открыть"
+"type": "create",
+"buttonTitle": "Создать"
 },
-"showAt": "2026-05-15T09:00:00+12:00",
+"showAt": "2026-05-21T09:00:00+12:00",
 "isActive": false
 }
