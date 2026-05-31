@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-15",
+"id": "alertmess-action-16",
 "title": "Первый день\nлета! ☀️",
 "body": "И новое обновление! Оно уже доступно в AppStore!",
 "background": "",
 "action": {
 "type": "url",
-"url": "https://3r9m2baf.forms.app/pillfluffyform",
+"url": "https://apps.apple.com/app/id6759400835",
 "buttonTitle": "Обновить"
 },
 "showAt": "2026-06-01T09:00:00+12:00",
-"isActive":false
+"isActive": true
 }
