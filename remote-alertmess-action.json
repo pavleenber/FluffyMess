@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-17",
-"title": "Первый день\nлета! ☀️",
-"body": "И новое обновление! Оно уже доступно в AppStore!",
+"id": "alertmess-action-20",
+"title": "Привет! Поделишься опытом? 🙌",
+"body": "Расскажи в форме обратной связи как тебе приложение. Это поможет сделать его лучше! Спасибо! ❤️",
 "background": "",
 "action": {
 "type": "url",
-"url": "https://apps.apple.com/app/id6759400835",
-"buttonTitle": "Обновить"
+"url": "https://fluffyapp.ru/suggestion",
+"buttonTitle": "Открыть"
 },
-"showAt": "2026-06-01T09:00:00+12:00",
-"isActive": false
+"showAt": "2026-06-10T09:00:00+12:00",
+"isActive": true
 }
