@@ -1,5 +1,5 @@
 {
-  "id": "alert-add-reminder-009",
+  "id": "alert-add-reminder-010",
   "title": "Сообщение\nдля тестеров",
   "body": "",
   "background": "",
@@ -17,6 +17,6 @@
       ]
     }
   },
-  "showAt": "2026-06-16T09:00:00+12:00",
+  "showAt": "2026-06-16T10:00:00+12:00",
   "isActive": true
 }
