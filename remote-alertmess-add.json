@@ -1,0 +1,21 @@
+{
+  "id": "alert-add-reminder-001",
+  "title": "Добавим\nнапоминание?",
+  "body": "Я подготовил для тебя маленький шаблон.",
+  "background": "home_header_bg",
+  "action": {
+    "type": "addReminder",
+    "buttonTitle": "Добавить",
+    "reminder": {
+      "title": "Купить SPF",
+      "description": "Не забыть взять крем перед прогулкой",
+      "date": "2026-06-21T12:30:00+12:00",
+      "subtasks": [
+        "Проверить сумку",
+        "Взять панамку"
+      ]
+    }
+  },
+  "showAt": "2026-06-20T09:00:00+12:00",
+  "isActive": true
+}
