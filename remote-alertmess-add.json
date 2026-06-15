@@ -1,5 +1,5 @@
 {
-  "id": "alert-add-reminder-002",
+  "id": "alert-add-reminder-003",
   "title": "Добавим\nнапоминание?",
   "body": "Я подготовил для тебя маленький шаблон.",
   "background": "home_header_bg",
@@ -11,8 +11,8 @@
       "description": "Заглушка",
       "date": "2026-06-21T12:30:00+12:00",
       "subtasks": [
-        "Заглушка",
-        "Заглушка"
+        "",
+        ""
       ]
     }
   },
