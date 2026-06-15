@@ -1,5 +1,5 @@
 {
-  "id": "alert-add-reminder-001",
+  "id": "alert-add-reminder-002",
   "title": "Добавим\nнапоминание?",
   "body": "Я подготовил для тебя маленький шаблон.",
   "background": "home_header_bg",
@@ -7,12 +7,12 @@
     "type": "addReminder",
     "buttonTitle": "Добавить",
     "reminder": {
-      "title": "Купить SPF",
-      "description": "Не забыть взять крем перед прогулкой",
+      "title": "Новое тестовое",
+      "description": "Заглушка",
       "date": "2026-06-21T12:30:00+12:00",
       "subtasks": [
-        "Проверить сумку",
-        "Взять панамку"
+        "Заглушка",
+        "Заглушка"
       ]
     }
   },
