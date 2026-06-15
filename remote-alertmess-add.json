@@ -1,5 +1,5 @@
 {
-  "id": "alert-add-reminder-003",
+  "id": "alert-add-reminder-004",
   "title": "Добавим\nнапоминание?",
   "body": "Я подготовил для тебя маленький шаблон.",
   "background": "home_header_bg",
@@ -16,6 +16,6 @@
       ]
     }
   },
-  "showAt": "2026-06-20T09:00:00+12:00",
+  "showAt": "2026-06-15T09:00:00+12:00",
   "isActive": true
 }
