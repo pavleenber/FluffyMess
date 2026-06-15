@@ -1,5 +1,5 @@
 {
-  "id": "alert-add-reminder-006",
+  "id": "alert-add-reminder-007",
   "title": "Сообщение\nдля тестеров",
   "body": "",
   "background": "",
@@ -13,6 +13,7 @@
       "subtasks": [
         "Тест 1",
         "Тест 2"
+        "Тест 3"
       ]
     }
   },
