@@ -1,12 +1,13 @@
 {
-"id": "alertmess-action-26",
-"title": "Понедельник\nдень тяжёлый…",
-"body": "Создадим напоминания чтобы не упустить важного на этой неделе или ну его?",
-"background": "",
+"id": "alertmess-action-27",
+"title": "Рекомендую обновить!",
+"body": "Вышло обновление которое исправляет важные ошибки напоминаний с повторами",
+"background": "home_header_cool_bg",
 "action": {
-"type": "create",
-"buttonTitle": "Создать"
+"type": "url",
+"url": "https://golnk.ru/G8WY5",
+"buttonTitle": "Перейти в App Store"
 },
-"showAt": "2026-06-22T12:00:00+12:00",
-"isActive":false
+"showAt": "2026-06-25T12:00:00+12:00",
+"isActive": true
 }
