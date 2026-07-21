@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-27",
-"title": "Рекомендую обновить!",
-"body": "Вышло обновление которое исправляет важные ошибки напоминаний с повторами",
+"id": "alertmess-action-30",
+"title": "Вот это событие!",
+"body": "Пора обновить приложение\nи получить новые функции! 🎉",
 "background": "home_header_cool_bg",
 "action": {
 "type": "url",
-"url": "https://golnk.ru/G8WY5",
+"url": "https://golnk.ru/5b1xe",
 "buttonTitle": "Перейти в App Store"
 },
-"showAt": "2026-06-25T12:00:00+12:00",
-"isActive": false
+"showAt": "2026-07-24T15:00:00+12:00",
+"isActive": true
 }
