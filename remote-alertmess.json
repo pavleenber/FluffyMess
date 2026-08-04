@@ -1,8 +1,8 @@
 {
-"id": "alertmess-text-20",
+"id": "alertmess-text-21",
 "title": "Создадм напомнкния?",
 "body": "Нет, это не ошибка.\nЭто привлечение твоего\nвнимания 🤭",
 "background": "home_header_cool_bg",
 "showAt": "2026-06-08T09:00:00+12:00",
-"isActive": false
+"isActive": true
 }
