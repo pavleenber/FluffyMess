@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-32",
-"title": "Подписка есть?\nА если найду?",
-"body": "Подпишись на наш телеграм чтобы узнавать новости про приложение",
+"id": "alertmess-action-33",
+"title": "Та-даам!\nОбновление!🎉",
+"body": "Вышел патч исправляющий важные ошибки и новые функции👇",
 "background": "home_header_cool_bg",
 "action": {
 "type": "url",
-"url": "https://t.me/Fluffy_reminder",
-"buttonTitle": "П️ерейти (Нужен VPN)"
+"url": "https://golnk.ru/XG83N",
+"buttonTitle": "П️ерейти в App Store"
 },
-"showAt": "2026-08-04T15:00:00+12:00",
+"showAt": "2026-08-14T15:00:00+12:00",
 "isActive": true
 }
