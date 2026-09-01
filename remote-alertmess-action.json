@@ -1,13 +1,13 @@
 {
-"id": "alertmess-action-33",
-"title": "Та-даам!\nОбновление!🎉",
-"body": "Вышел патч исправляющий важные ошибки и новые функции👇",
-"background": "home_header_cool_bg",
+"id": "alertmess-action-34",
+"title": "Вот это событие!",
+"body": "Пора обновить приложение\nи получить новые функции! 🎉",
+"background": "bg",
 "action": {
 "type": "url",
 "url": "https://golnk.ru/XG83N",
 "buttonTitle": "П️ерейти в App Store"
 },
-"showAt": "2026-08-14T15:00:00+12:00",
-"isActive": false
+"showAt": "2026-09-01T15:00:00+12:00",
+"isActive": true
 }
