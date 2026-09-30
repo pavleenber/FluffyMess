@@ -1,7 +1,14 @@
 {
-"id": "alertmess-text-27",
-"title": "Не унывай, ты\nне дурак!🫣",
-"body": "Ты можешь дальше, больше,\nкамон эврибади пучехензап! ✨",
+"id": "alertmess-text-28",
+  "title": {
+    "ru": "Толькоn\nморгнул 🍂",
+    "en": "I just\nblinked 🍂"
+"
+  },
+  "body": {
+    "ru": "Уже октябрь. Я перевернул календарик за тебя. Проверяй!",
+    "en": "It’s already October. I turned the calendar for you. "
+  },
 "background": "bg",
 "showAt": "2026-09-11T09:00:00+12:00",
 "isActive": true
