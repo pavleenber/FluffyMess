@@ -1,13 +1,13 @@
 {
 "id": "alertmess-action-40",
-"title": "Получите \nи распишитесь!",
-"body": "Свежее обновление\nуже доступно в App Store!",
-"background": "coolBG",
+"title": "Может чего-то\nне хватает? 🫣",
+"body": "Поделись своими мыслями про приложение чтобы сделать его\nещё лучше именно для тебя👇",
+"background": "sadBG",
 "action": {
 "type": "url",
-"url": "https://apps.apple.com/app/id6759400835",
-"buttonTitle": "Перейти в App Store"
+"url": "http://fluffyapp.ru/suggestion",
+"buttonTitle": "Иду рассказывать!"
 },
 "showAt": "2026-10-01T09:00:00+12:00",
-"isActive": false
+"isActive": true
 }
