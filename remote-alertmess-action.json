@@ -1,5 +1,5 @@
 {
-  "id": "alertmess-action-36",
+  "id": "alertmess-action-37",
   "title": {
     "ru": "Скоро\nХэллуин!🎃",
     "en": "Halloween is coming soon!🎃 "
@@ -10,7 +10,7 @@
   },
   "background": "AchiPumkin_coolBG",
   "showAt": "2026-10-01T09:00:00Z",
-  "isActive": true,
+  "isActive": false,
   "action": {
     "type": "profile",
     "buttonTitle": {
