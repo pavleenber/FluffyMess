@@ -1,13 +1,21 @@
 {
-"id": "alertmess-action-35",
-"title": "Оцените меня\nв App Store?🥹",
-"body": "Меньше 5-ти звезд я\nне принимаю! (Шутка).\nНа самом деле, оценивайте\nтолько сердцем ❤️",
-"background": "RemoteEvent_BG",
-"action": {
-"type": "url",
-"url": "https://apps.apple.com/app/id6759400835",
-"buttonTitle": "Оценить"
-},
-"showAt": "2026-09-30T15:00:00+12:00",
-"isActive": true
+  "id": "alertmess-action-35",
+  "title": {
+    "ru": "Скоро\nХэллуин!🎃",
+    "en": "Halloween is coming soon!🎃 "
+  },
+  "body": {
+    "ru": "Оденем этот тыквенный костюмчик?",
+    "en": "Shall we wear this little pumpkin costume?"
+  },
+  "background": "AchiPumkin_coolBG",
+  "showAt": "2026-10-01T09:00:00Z",
+  "isActive": true,
+  "action": {
+    "type": "profile",
+    "buttonTitle": {
+      "ru": "Переодеться",
+      "en": "Choose a skin"
+    }
+  }
 }
