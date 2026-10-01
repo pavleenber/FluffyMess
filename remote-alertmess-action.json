@@ -1,21 +1,13 @@
 {
-  "id": "alertmess-action-38",
-  "title": {
-    "ru": "Скоро\nХэллуин!🎃",
-    "en": "Halloween is coming soon!🎃 "
-  },
-  "body": {
-    "ru": "Оденем этот тыквенный костюмчик?",
-    "en": "Shall we wear this little pumpkin costume?"
-  },
-  "background": "AchiPumkin_coolBG",
-  "showAt": "2026-10-01T09:00:00Z",
-  "isActive": true,
-  "action": {
-    "type": "profile",
-    "buttonTitle": {
-      "ru": "Переодеться",
-      "en": "Choose a skin"
-    }
-  }
+  "id": "alertmess-action-40",
+"title": "Получите \nи распишитесь!",
+"body": "Свежее обновление\nуже доступно в App Store!",
+"background": "coolBG",
+"action": {
+"type": "url",
+"url": "https://apps.apple.com/app/id6759400835",
+"buttonTitle": "Перейти в App Store"
+},
+"showAt": "2026-10-01T09:00:00+12:00",
+"isActive": false
 }
