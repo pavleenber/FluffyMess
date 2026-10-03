@@ -1,13 +1,21 @@
 {
-"id": "alertmess-action-40",
-"title": "Может чего-то\nне хватает? 🫣",
-"body": "Поделись своими мыслями про приложение чтобы сделать его\nещё лучше именно для тебя👇",
-"background": "sadBG",
-"action": {
-"type": "url",
-"url": "http://fluffyapp.ru/suggestion",
-"buttonTitle": "Иду рассказывать!"
-},
-"showAt": "2026-10-01T09:00:00+12:00",
-"isActive": true
+  "action" : {
+    "buttonTitle" : {
+      "en" : "Go to the profile",
+      "ru" : "Перейти в профиль"
+    },
+    "type" : "profile"
+  },
+  "background" : "AchiClownBG",
+  "body" : {
+    "en" : "This is a new message delivery structure",
+    "ru" : "Это новая структура по доставке сообщений"
+  },
+  "id" : "mess-179f1747",
+  "isActive" : true,
+  "showAt" : "2026-10-03T04:03:11.905Z",
+  "title" : {
+    "en" : "Test of the new structure",
+    "ru" : "Тест новой структуры"
+  }
 }
