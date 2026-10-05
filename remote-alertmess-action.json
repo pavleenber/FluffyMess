@@ -1,21 +1,13 @@
 {
-  "action" : {
-    "buttonTitle" : {
-      "en" : "Go to the profile",
-      "ru" : "Перейти в профиль"
-    },
-    "type" : "profile"
-  },
-  "background" : "AchiClownBG",
-  "body" : {
-    "en" : "This is a new message delivery structure",
-    "ru" : "Это новая структура по доставке сообщений"
-  },
-  "id" : "mess-179f1747",
-  "isActive" : false,
-  "showAt" : "2026-10-03T04:03:11.905Z",
-  "title" : {
-    "en" : "Test of the new structure",
-    "ru" : "Тест новой структуры"
-  }
+"id": "mess-17946347",
+"title": "Получите \nи распишитесь!",
+"body": "Свежее обновление\nуже доступно в App Store!",
+"background": "coolBG",
+"action": {
+"type": "url",
+"url": "https://golnk.ru/60z9e",
+"buttonTitle": "Перейти в App Store"
+},
+"showAt": "2026-10-01T09:00:00+12:00",
+"isActive": true
 }
