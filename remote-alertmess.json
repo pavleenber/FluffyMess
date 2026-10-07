@@ -1,8 +1,13 @@
 {
-"id": "alertmess-text-61",
-"title": "А у нас тут выходные?",
-"body": "А почему тогда твой список дел смотрит на меня?",
-"background": "bg",
-"showAt": "2026-09-11T09:00:00+12:00",
-"isActive": false
+  "body" : {
+    "en" : "Just checking in. Something interesting might’ve happened without me.",
+    "ru" : "Просто проверяю.\nВдруг без меня началось\nчто-нибудь интересное…"
+  },
+  "id" : "mess-5c7739ae",
+  "isActive" : true,
+  "showAt" : "2026-10-08T05:41:00.000Z",
+  "title" : {
+    "en" : "How are things\nover there? 👀",
+    "ru" : "Ты там как? 👀"
+  }
 }
