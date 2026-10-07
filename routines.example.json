@@ -1,0 +1,46 @@
+{
+  "routines": [
+    {
+      "id": "morning-start",
+      "isActive": false,
+      "title": {
+        "ru": "Доброе утро",
+        "en": "Good Morning"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Выпить стакан воды",
+            "en": "Drink a glass of water"
+          },
+          "details": {
+            "ru": "Начни день спокойно",
+            "en": "Start the day gently"
+          },
+          "time": "08:00",
+          "tag": {
+            "name": {
+              "ru": "ЗДОРОВЬЕ",
+              "en": "HEALTH"
+            },
+            "color": "mint"
+          }
+        },
+        {
+          "title": {
+            "ru": "Составить план дня",
+            "en": "Plan the day"
+          },
+          "time": "08:15",
+          "tag": {
+            "name": {
+              "ru": "РАБОТА",
+              "en": "WORK"
+            },
+            "color": "blue"
+          }
+        }
+      ]
+    }
+  ]
+}
