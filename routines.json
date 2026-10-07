@@ -2,10 +2,14 @@
   "routines": [
     {
       "id": "morning-start",
-      "isActive": false,
+      "isActive": true,
       "title": {
         "ru": "Доброе утро",
         "en": "Good Morning"
+      },
+      "details": {
+        "ru": "Небольшой набор, чтобы спокойно начать день",
+        "en": "A small set to ease into your day"
       },
       "items": [
         {
@@ -17,28 +21,46 @@
             "ru": "Начни день спокойно",
             "en": "Start the day gently"
           },
-          "time": "08:00",
-          "tag": {
-            "name": {
-              "ru": "ЗДОРОВЬЕ",
-              "en": "HEALTH"
-            },
-            "color": "mint"
-          }
+          "time": "08:00"
         },
         {
           "title": {
             "ru": "Составить план дня",
             "en": "Plan the day"
           },
-          "time": "08:15",
-          "tag": {
-            "name": {
-              "ru": "РАБОТА",
-              "en": "WORK"
-            },
-            "color": "blue"
-          }
+          "time": "08:15"
+        }
+      ]
+    },
+    {
+      "id": "evening-reset",
+      "isActive": true,
+      "title": {
+        "ru": "Спокойный вечер",
+        "en": "Wind Down"
+      },
+      "details": {
+        "ru": "Заверши день без спешки и с заботой о себе",
+        "en": "Wrap up the day slowly and take care of yourself"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Подвести итоги дня",
+            "en": "Reflect on the day"
+          },
+          "time": "20:30"
+        },
+        {
+          "title": {
+            "ru": "Подготовить вещи на завтра",
+            "en": "Prepare for tomorrow"
+          },
+          "details": {
+            "ru": "Чтобы утро прошло легче",
+            "en": "Make tomorrow morning easier"
+          },
+          "time": "21:00"
         }
       ]
     }
