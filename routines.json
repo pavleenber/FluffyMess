@@ -2,7 +2,7 @@
   "routines": [
     {
       "id": "morning-routine",
-      "isActive": true,
+      "isActive": false,
       "title": {
         "ru": "Утренняя рутина",
         "en": "Morning Routine"
@@ -54,7 +54,7 @@
     },
     {
       "id": "calm-evening",
-      "isActive": true,
+      "isActive": false,
       "title": {
         "ru": "Спокойный вечер",
         "en": "Calm Evening"
