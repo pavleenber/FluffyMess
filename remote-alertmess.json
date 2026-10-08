@@ -1,13 +1,13 @@
 {
   "body" : {
-    "en" : "Just checking in. Something interesting might’ve happened without me.",
-    "ru" : "Просто проверяю.\nВдруг без меня началось\nчто-нибудь интересное…"
+    "en" : "Another week down. I'm actually\nkind of proud of us.",
+    "ru" : "Ещё одна неделя позади.\nЯ даже немного горжусь нами."
   },
-  "id" : "mess-5c7739ae",
+  "id" : "mess-93dbac8b",
   "isActive" : true,
-  "showAt" : "2026-10-07T05:41:00.000Z",
+  "showAt" : "2026-10-09T00:00:00.000Z",
   "title" : {
-    "en" : "How are things\nover there? 👀",
-    "ru" : "Ты там как? 👀"
+    "en" : "I think we\nsurvived! 🥴",
+    "ru" : "Кажется, мы выжили!🥴"
   }
 }
