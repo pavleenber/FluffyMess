@@ -1,47 +1,67 @@
 {
   "routines": [
     {
-      "id": "morning-start",
+      "id": "morning-routine",
       "isActive": true,
       "title": {
-        "ru": "Доброе утро",
-        "en": "Good Morning"
+        "ru": "Утренняя рутина",
+        "en": "Morning Routine"
       },
       "details": {
-        "ru": "Небольшой набор, чтобы спокойно начать день",
-        "en": "A small set to ease into your day"
+        "ru": "Начни день спокойно и в своём ритме.",
+        "en": "Start the day calmly and at your own pace."
       },
       "items": [
+        {
+          "title": {
+            "ru": "Проснуться и потянуться",
+            "en": "Wake up and stretch"
+          },
+          "details": {
+            "ru": "Несколько минут для мягкого начала дня.",
+            "en": "Take a few minutes to ease into the day."
+          },
+          "time": "08:00"
+        },
         {
           "title": {
             "ru": "Выпить стакан воды",
             "en": "Drink a glass of water"
           },
           "details": {
-            "ru": "Начни день спокойно",
-            "en": "Start the day gently"
-          },
-          "time": "08:00"
+            "ru": "Можно сделать в любое удобное время.",
+            "en": "Do it whenever it feels right."
+          }
         },
         {
           "title": {
-            "ru": "Составить план дня",
-            "en": "Plan the day"
+            "ru": "Позавтракать",
+            "en": "Have breakfast"
           },
-          "time": "08:15"
+          "time": "08:20"
+        },
+        {
+          "title": {
+            "ru": "Проверить планы на день",
+            "en": "Review the day's plans"
+          },
+          "details": {
+            "ru": "Выбери главное и не перегружай себя.",
+            "en": "Pick the essentials and keep it manageable."
+          }
         }
       ]
     },
     {
-      "id": "evening-reset",
+      "id": "calm-evening",
       "isActive": true,
       "title": {
         "ru": "Спокойный вечер",
-        "en": "Wind Down"
+        "en": "Calm Evening"
       },
       "details": {
-        "ru": "Заверши день без спешки и с заботой о себе",
-        "en": "Wrap up the day slowly and take care of yourself"
+        "ru": "Небольшая пауза, чтобы завершить день без спешки.",
+        "en": "A small pause to wind down without rushing."
       },
       "items": [
         {
@@ -49,7 +69,11 @@
             "ru": "Подвести итоги дня",
             "en": "Reflect on the day"
           },
-          "time": "20:30"
+          "details": {
+            "ru": "Отметь, что уже получилось.",
+            "en": "Notice what you have already done."
+          },
+          "time": "20:00"
         },
         {
           "title": {
@@ -57,10 +81,71 @@
             "en": "Prepare for tomorrow"
           },
           "details": {
-            "ru": "Чтобы утро прошло легче",
-            "en": "Make tomorrow morning easier"
+            "ru": "Пусть утро будет чуть легче.",
+            "en": "Make tomorrow morning a little easier."
+          }
+        },
+        {
+          "title": {
+            "ru": "Отложить телефон",
+            "en": "Put your phone away"
           },
-          "time": "21:00"
+          "time": "21:30"
+        },
+        {
+          "title": {
+            "ru": "Лечь спать",
+            "en": "Go to bed"
+          },
+          "time": "22:30"
+        }
+      ]
+    },
+    {
+      "id": "halloween-ideas",
+      "isActive": true,
+      "title": {
+        "ru": "Идеи для Хэллуина",
+        "en": "Halloween Ideas"
+      },
+      "details": {
+        "ru": "Собери немного праздничного настроения.",
+        "en": "Put together a little festive mood."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Выбрать костюм",
+            "en": "Choose a costume"
+          },
+          "details": {
+            "ru": "Или придумать образ из того, что уже есть дома.",
+            "en": "Or create a look from what you already have at home."
+          }
+        },
+        {
+          "title": {
+            "ru": "Составить список угощений",
+            "en": "Make a treat list"
+          }
+        },
+        {
+          "title": {
+            "ru": "Украсить дом",
+            "en": "Decorate the home"
+          },
+          "time": "18:00"
+        },
+        {
+          "title": {
+            "ru": "Собрать плейлист",
+            "en": "Make a playlist"
+          },
+          "details": {
+            "ru": "Для страшно уютного вечера.",
+            "en": "For a delightfully spooky evening."
+          },
+          "time": "19:00"
         }
       ]
     }
