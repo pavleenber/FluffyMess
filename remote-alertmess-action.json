@@ -1,13 +1,18 @@
 {
-"id": "mess-17946347",
-"title": "Получите \nи распишитесь!",
-"body": "Свежее обновление\nуже доступно в App Store!",
-"background": "coolBG",
-"action": {
-"type": "url",
-"url": "https://golnk.ru/60z9e",
-"buttonTitle": "Перейти в App Store"
-},
-"showAt": "2026-10-01T09:00:00+12:00",
-"isActive": false
+  "action" : {
+    "buttonTitle" : {
+      "ru" : "Перейти"
+    },
+    "type" : "url",
+    "url" : "https://fluffyapp.ru/feedback"
+  },
+  "body" : {
+    "ru" : "Интересно твоё мнение по поводу моих сообщений тебе. Ответим?"
+  },
+  "id" : "mess-a24b3b1e",
+  "isActive" : true,
+  "showAt" : "2026-10-09T22:00:00.000Z",
+  "title" : {
+    "ru" : "Пушистый\nопрос:"
+  }
 }
