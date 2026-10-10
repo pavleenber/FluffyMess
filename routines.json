@@ -2,7 +2,7 @@
   "routines": [
     {
       "id": "morning-routine",
-      "isActive": false,
+      "isActive": true,
       "title": {
         "ru": "Утренняя рутина",
         "en": "Morning Routine"
@@ -21,6 +21,20 @@
             "ru": "Несколько минут для мягкого начала дня.",
             "en": "Take a few minutes to ease into the day."
           },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Открыть шторы",
+                "en": "Open the curtains"
+              }
+            },
+            {
+              "title": {
+                "ru": "Сделать несколько глубоких вдохов",
+                "en": "Take a few deep breaths"
+              }
+            }
+          ],
           "time": "08:00"
         },
         {
@@ -48,13 +62,21 @@
           "details": {
             "ru": "Выбери главное и не перегружай себя.",
             "en": "Pick the essentials and keep it manageable."
-          }
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Выбрать одну главную задачу",
+                "en": "Choose one main task"
+              }
+            }
+          ]
         }
       ]
     },
     {
       "id": "calm-evening",
-      "isActive": false,
+      "isActive": true,
       "title": {
         "ru": "Спокойный вечер",
         "en": "Calm Evening"
@@ -73,6 +95,14 @@
             "ru": "Отметь, что уже получилось.",
             "en": "Notice what you have already done."
           },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Записать одну приятную вещь за день",
+                "en": "Write down one good thing from the day"
+              }
+            }
+          ],
           "time": "20:00"
         },
         {
@@ -83,7 +113,21 @@
           "details": {
             "ru": "Пусть утро будет чуть легче.",
             "en": "Make tomorrow morning a little easier."
-          }
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Подготовить одежду",
+                "en": "Pick out clothes"
+              }
+            },
+            {
+              "title": {
+                "ru": "Собрать нужные вещи",
+                "en": "Pack what you need"
+              }
+            }
+          ]
         },
         {
           "title": {
@@ -121,13 +165,41 @@
           "details": {
             "ru": "Или придумать образ из того, что уже есть дома.",
             "en": "Or create a look from what you already have at home."
-          }
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Проверить, что уже есть дома",
+                "en": "Check what you already have at home"
+              }
+            },
+            {
+              "title": {
+                "ru": "Добавить недостающие детали",
+                "en": "Add any missing details"
+              }
+            }
+          ]
         },
         {
           "title": {
             "ru": "Составить список угощений",
             "en": "Make a treat list"
-          }
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Выбрать сладости",
+                "en": "Choose sweets"
+              }
+            },
+            {
+              "title": {
+                "ru": "Не забыть напитки",
+                "en": "Remember drinks"
+              }
+            }
+          ]
         },
         {
           "title": {
