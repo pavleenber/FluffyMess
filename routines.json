@@ -8,8 +8,8 @@
         "en": "Morning Routine"
       },
       "details": {
-        "ru": "Начни день спокойно и в своём ритме.",
-        "en": "Start the day calmly and at your own pace."
+        "ru": "Начни день спокойно и в своём ритме",
+        "en": "Start the day calmly and at your own pace"
       },
       "items": [
         {
@@ -18,8 +18,8 @@
             "en": "Wake up and stretch"
           },
           "details": {
-            "ru": "Несколько минут для мягкого начала дня.",
-            "en": "Take a few minutes to ease into the day."
+            "ru": "Несколько минут для мягкого начала дня",
+            "en": "Take a few minutes to ease into the day"
           },
           "subtasks": [
             {
@@ -71,77 +71,6 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "calm-evening",
-      "isActive": true,
-      "title": {
-        "ru": "Спокойный вечер",
-        "en": "Calm Evening"
-      },
-      "details": {
-        "ru": "Небольшая пауза, чтобы завершить день без спешки.",
-        "en": "A small pause to wind down without rushing."
-      },
-      "items": [
-        {
-          "title": {
-            "ru": "Подвести итоги дня",
-            "en": "Reflect on the day"
-          },
-          "details": {
-            "ru": "Отметь, что уже получилось.",
-            "en": "Notice what you have already done."
-          },
-          "subtasks": [
-            {
-              "title": {
-                "ru": "Записать одну приятную вещь за день",
-                "en": "Write down one good thing from the day"
-              }
-            }
-          ],
-          "time": "20:00"
-        },
-        {
-          "title": {
-            "ru": "Подготовить вещи на завтра",
-            "en": "Prepare for tomorrow"
-          },
-          "details": {
-            "ru": "Пусть утро будет чуть легче.",
-            "en": "Make tomorrow morning a little easier."
-          },
-          "subtasks": [
-            {
-              "title": {
-                "ru": "Подготовить одежду",
-                "en": "Pick out clothes"
-              }
-            },
-            {
-              "title": {
-                "ru": "Собрать нужные вещи",
-                "en": "Pack what you need"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "ru": "Отложить телефон",
-            "en": "Put your phone away"
-          },
-          "time": "21:30"
-        },
-        {
-          "title": {
-            "ru": "Лечь спать",
-            "en": "Go to bed"
-          },
-          "time": "22:30"
         }
       ]
     },
@@ -282,64 +211,6 @@
       ]
     },
     {
-      "id": "no-heroics-day",
-      "isActive": true,
-      "title": {
-        "ru": "День без геройства",
-        "en": "No-Heroics Day"
-      },
-      "details": {
-        "ru": "Спасение мира подождёт. Сегодня спасаем батарейку.",
-        "en": "Saving the world can wait. Today, we’re recharging."
-      },
-      "items": [
-        {
-          "title": {
-            "ru": "Нормально поесть",
-            "en": "Have a proper meal"
-          },
-          "details": {
-            "ru": "Кофе не считается полноценным обедом.",
-            "en": "Coffee is not a full meal."
-          }
-        },
-        {
-          "title": {
-            "ru": "Выйти подышать воздухом",
-            "en": "Step outside for some air"
-          },
-          "details": {
-            "ru": "Даже короткая прогулка считается.",
-            "en": "Even a short walk counts."
-          }
-        },
-        {
-          "title": {
-            "ru": "Сделать что-то приятное",
-            "en": "Do something you enjoy"
-          },
-          "subtasks": [
-            {
-              "title": {
-                "ru": "Выбрать занятие для себя",
-                "en": "Pick something just for you"
-              }
-            }
-          ]
-        },
-        {
-          "title": {
-            "ru": "Отдохнуть без чувства вины",
-            "en": "Rest without guilt"
-          },
-          "details": {
-            "ru": "Это тоже важный пункт списка.",
-            "en": "Yes, this belongs on the list."
-          }
-        }
-      ]
-    },
-    {
       "id": "fridge-restock",
       "isActive": true,
       "title": {
@@ -395,52 +266,6 @@
           "details": {
             "ru": "Пусть продукты доберутся до холодильника.",
             "en": "Help the groceries make it to the fridge."
-          }
-        }
-      ]
-    },
-    {
-      "id": "move-a-little",
-      "isActive": true,
-      "title": {
-        "ru": "Немного движения",
-        "en": "Move a Little"
-      },
-      "details": {
-        "ru": "Не обязательно становиться спортсменом года. Просто разомни лапки.",
-        "en": "No need to become athlete of the year. Just stretch those paws."
-      },
-      "items": [
-        {
-          "title": {
-            "ru": "Сделать разминку",
-            "en": "Warm up"
-          },
-          "details": {
-            "ru": "Начнём без олимпийских рекордов.",
-            "en": "No Olympic records needed."
-          }
-        },
-        {
-          "title": {
-            "ru": "Пройтись пешком",
-            "en": "Go for a walk"
-          },
-          "details": {
-            "ru": "Даже круг вокруг дома — уже прогулка.",
-            "en": "Even a lap around the block counts."
-          }
-        },
-        {
-          "title": {
-            "ru": "Немного потянуться",
-            "en": "Do some gentle stretches"
-          }
-        },
-        {
-          "title": {
-            "ru": "Выпить воды",
-            "en": "Drink some water"
           }
         }
       ]
