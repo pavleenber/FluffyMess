@@ -220,6 +220,312 @@
           "time": "19:00"
         }
       ]
+    },
+    {
+      "id": "clean-house-operation",
+      "isActive": true,
+      "title": {
+        "ru": "Операция «Чистый дом»",
+        "en": "Operation: Clean House"
+      },
+      "details": {
+        "ru": "Пыль сама себя не вытрет. Мы проверяли.",
+        "en": "Dust won’t clean itself. We checked."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Разобрать вещи",
+            "en": "Put things back"
+          },
+          "details": {
+            "ru": "Вернуть беглецов на свои места.",
+            "en": "Return the escapees to their rightful places."
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Убрать одежду",
+                "en": "Put away clothes"
+              }
+            },
+            {
+              "title": {
+                "ru": "Освободить столы и полки",
+                "en": "Clear tables and shelves"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Протереть поверхности",
+            "en": "Wipe down surfaces"
+          }
+        },
+        {
+          "title": {
+            "ru": "Пропылесосить",
+            "en": "Vacuum the floors"
+          },
+          "details": {
+            "ru": "Крошки слишком долго чувствовали себя хозяевами.",
+            "en": "The crumbs have been in charge for too long."
+          }
+        },
+        {
+          "title": {
+            "ru": "Вынести мусор",
+            "en": "Take out the trash"
+          }
+        }
+      ]
+    },
+    {
+      "id": "no-heroics-day",
+      "isActive": true,
+      "title": {
+        "ru": "День без геройства",
+        "en": "No-Heroics Day"
+      },
+      "details": {
+        "ru": "Спасение мира подождёт. Сегодня спасаем батарейку.",
+        "en": "Saving the world can wait. Today, we’re recharging."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Нормально поесть",
+            "en": "Have a proper meal"
+          },
+          "details": {
+            "ru": "Кофе не считается полноценным обедом.",
+            "en": "Coffee is not a full meal."
+          }
+        },
+        {
+          "title": {
+            "ru": "Выйти подышать воздухом",
+            "en": "Step outside for some air"
+          },
+          "details": {
+            "ru": "Даже короткая прогулка считается.",
+            "en": "Even a short walk counts."
+          }
+        },
+        {
+          "title": {
+            "ru": "Сделать что-то приятное",
+            "en": "Do something you enjoy"
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Выбрать занятие для себя",
+                "en": "Pick something just for you"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Отдохнуть без чувства вины",
+            "en": "Rest without guilt"
+          },
+          "details": {
+            "ru": "Это тоже важный пункт списка.",
+            "en": "Yes, this belongs on the list."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fridge-restock",
+      "isActive": true,
+      "title": {
+        "ru": "Холодильник, держись!",
+        "en": "Fridge, Brace Yourself!"
+      },
+      "details": {
+        "ru": "Потому что кетчуп и половинка лимона — не ужин.",
+        "en": "Because ketchup and half a lemon are not dinner."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Проверить запасы",
+            "en": "Check what you have"
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Заглянуть в холодильник",
+                "en": "Check the fridge"
+              }
+            },
+            {
+              "title": {
+                "ru": "Проверить сроки годности",
+                "en": "Check expiration dates"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Составить список покупок",
+            "en": "Make a shopping list"
+          },
+          "details": {
+            "ru": "Чтобы не вернуться с одними печеньками.",
+            "en": "So you don’t come home with just cookies."
+          }
+        },
+        {
+          "title": {
+            "ru": "Купить продукты",
+            "en": "Go grocery shopping"
+          }
+        },
+        {
+          "title": {
+            "ru": "Разобрать покупки",
+            "en": "Put groceries away"
+          },
+          "details": {
+            "ru": "Пусть продукты доберутся до холодильника.",
+            "en": "Help the groceries make it to the fridge."
+          }
+        }
+      ]
+    },
+    {
+      "id": "move-a-little",
+      "isActive": true,
+      "title": {
+        "ru": "Немного движения",
+        "en": "Move a Little"
+      },
+      "details": {
+        "ru": "Не обязательно становиться спортсменом года. Просто разомни лапки.",
+        "en": "No need to become athlete of the year. Just stretch those paws."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Сделать разминку",
+            "en": "Warm up"
+          },
+          "details": {
+            "ru": "Начнём без олимпийских рекордов.",
+            "en": "No Olympic records needed."
+          }
+        },
+        {
+          "title": {
+            "ru": "Пройтись пешком",
+            "en": "Go for a walk"
+          },
+          "details": {
+            "ru": "Даже круг вокруг дома — уже прогулка.",
+            "en": "Even a lap around the block counts."
+          }
+        },
+        {
+          "title": {
+            "ru": "Немного потянуться",
+            "en": "Do some gentle stretches"
+          }
+        },
+        {
+          "title": {
+            "ru": "Выпить воды",
+            "en": "Drink some water"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sunday-reset",
+      "isActive": true,
+      "title": {
+        "ru": "Воскресная перезагрузка",
+        "en": "Sunday Reset"
+      },
+      "details": {
+        "ru": "Подготовимся к понедельнику, пока он ничего не подозревает.",
+        "en": "Get ready for Monday while it’s not looking."
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Разобрать накопившиеся мелочи",
+            "en": "Tidy up loose ends"
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Убрать вещи не на месте",
+                "en": "Put stray items away"
+              }
+            },
+            {
+              "title": {
+                "ru": "Разобрать одну маленькую зону",
+                "en": "Tidy one small area"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Проверить планы на неделю",
+            "en": "Review the week ahead"
+          },
+          "details": {
+            "ru": "Без паники: просто посмотрим, что нас ждёт.",
+            "en": "No panic. Just a peek at what’s coming."
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Отметить важные дела",
+                "en": "Mark important tasks"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Подготовить нужные вещи",
+            "en": "Get essentials ready"
+          },
+          "subtasks": [
+            {
+              "title": {
+                "ru": "Подготовить одежду",
+                "en": "Pick out clothes"
+              }
+            },
+            {
+              "title": {
+                "ru": "Проверить сумку и зарядки",
+                "en": "Check your bag and chargers"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Оставить время для отдыха",
+            "en": "Make time to relax"
+          },
+          "details": {
+            "ru": "Воскресенье всё-таки не филиал понедельника.",
+            "en": "Sunday isn’t Monday in disguise."
+          }
+        }
+      ]
     }
   ]
 }
