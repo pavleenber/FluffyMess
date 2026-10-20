@@ -1,13 +1,14 @@
 {
+  "background" : "RemoteEvent_BG",
   "body" : {
-    "en" : "And that's my official excuse for getting nothing done today.",
-    "ru" : "И это официальная причина, почему я ничего не делал. А вот ты? 🤨"
+    "en" : "Are we being productive today,\nor just looking fabulous again?🫰❤️",
+    "ru" : "Мы сегодня будем продуктивными или снова просто очень\nкрасивыми?🫰❤️"
   },
-  "id" : "mess-5f3b5057",
+  "id" : "mess-d0046994",
   "isActive" : true,
-  "showAt" : "2026-10-14T23:59:00.000Z",
+  "showAt" : "2026-10-20T22:00:00.000Z",
   "title" : {
-    "en" : "I have tiny\npaws! 🐾",
-    "ru" : "У меня лапки 🐾"
+    "en" : "Quick\nquestion 🥴",
+    "ru" : "У меня к тебе вопросик 🥴"
   }
 }
