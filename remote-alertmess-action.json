@@ -1,18 +1,20 @@
 {
   "action" : {
     "buttonTitle" : {
-      "ru" : "Перейти"
+      "en" : "I'm in!",
+      "ru" : "Я в деле!"
     },
-    "type" : "url",
-    "url" : "https://fluffyapp.ru/feedback"
+    "type" : "create"
   },
   "body" : {
-    "ru" : "Интересно твоё мнение по поводу моих сообщений тебе. Ответим?"
+    "en" : "Let's put relaxing on the to-do list\nand call it productivity 🤭",
+    "ru" : "Давай запишем отдых\nв список дел и назовём\nэто продуктивностью 🤭"
   },
-  "id" : "mess-a24b3b1e",
-  "isActive" : false,
-  "showAt" : "2026-10-09T22:00:00.000Z",
+  "id" : "mess-da79c965",
+  "isActive" : true,
+  "showAt" : "2026-10-24T22:00:00.000Z",
   "title" : {
-    "ru" : "Пушистый\nопрос:"
+    "en" : "I have a proposition…",
+    "ru" : "Есть предложение…"
   }
 }
