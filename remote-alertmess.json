@@ -1,14 +1,11 @@
 {
-  "background" : "RemoteEvent_BG",
   "body" : {
-    "en" : "Are we being productive today,\nor just looking fabulous again?🫰❤️",
-    "ru" : "Мы сегодня будем продуктивными или снова просто очень\nкрасивыми?🫰❤️"
+    "ru" : "Прости, за этот внезапный зуммерский мув…😳"
   },
-  "id" : "mess-d0046994",
-  "isActive" : false,
-  "showAt" : "2026-10-20T22:00:00.000Z",
+  "id" : "mess-331afb8f",
+  "isActive" : true,
+  "showAt" : "2026-10-26T22:15:20.897Z",
   "title" : {
-    "en" : "Quick\nquestion 🥴",
-    "ru" : "У меня к тебе вопросик 🥴"
+    "ru" : "Я тебя могн…"
   }
 }
