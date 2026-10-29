@@ -1,20 +1,18 @@
 {
   "action" : {
     "buttonTitle" : {
-      "en" : "I'm in!",
-      "ru" : "Я в деле!"
+      "ru" : "Одеть костюм"
     },
     "type" : "create"
   },
+  "background" : "AchiPumkin",
   "body" : {
-    "en" : "Let's put relaxing on the to-do list\nand call it productivity 🤭",
-    "ru" : "Давай запишем отдых\nв список дел и назовём\nэто продуктивностью 🤭"
+    "ru" : "Сегодня Хэллоуин! Одеваем костюмчик и едим много-много конфет под страшные фильмы!"
   },
-  "id" : "mess-da79c965",
+  "id" : "mess-ca249419",
   "isActive" : true,
-  "showAt" : "2026-10-24T22:00:00.000Z",
+  "showAt" : "2026-10-30T22:11:00.000Z",
   "title" : {
-    "en" : "I have a proposition…",
-    "ru" : "Есть предложение…"
+    "ru" : "Темной-темной ночью…🎃"
   }
 }
