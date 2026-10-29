@@ -3,7 +3,7 @@
     "buttonTitle" : {
       "ru" : "Одеть костюм"
     },
-    "type" : "create"
+    "type" : "profile"
   },
   "background" : "AchiPumkin",
   "body" : {
