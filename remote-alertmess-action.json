@@ -1,18 +1,22 @@
 {
   "action" : {
     "buttonTitle" : {
-      "ru" : "Одеть костюм"
+      "en" : "Go in App Store",
+      "ru" : "Перейти в App Store"
     },
-    "type" : "profile"
+    "type" : "url",
+    "url" : "https://golnk.ru/Bgp4Y"
   },
-  "background" : "AchiPumkin",
+  "background" : "RemoteEvent_BG",
   "body" : {
-    "ru" : "Сегодня Хэллоуин! Одеваем костюмчик и едим много-много конфет под страшные фильмы!"
+    "en" : "Who’s there? It looks like an update. Let’s check?",
+    "ru" : "Кто там? Вроде как похоже\nна обновление. Проверим?"
   },
-  "id" : "mess-ca249419",
-  "isActive" : false,
-  "showAt" : "2026-10-30T22:11:00.000Z",
+  "id" : "mess-b59123cc",
+  "isActive" : true,
+  "showAt" : "2026-11-05T00:40:00.000Z",
   "title" : {
-    "ru" : "Темной-темной ночью…🎃"
+    "en" : "Knocking!🚪✊",
+    "ru" : "Тук-тук!🚪✊"
   }
 }
