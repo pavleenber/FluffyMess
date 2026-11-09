@@ -1,11 +1,58 @@
-{
-  "body" : {
-    "ru" : "Прости, за этот внезапный зуммерский мув…😳"
+[
+  {
+    "background": "RemoteEvent_BG",
+    "body": {
+      "en": "What if we pretend all our tasks\ncan wait until Monday?",
+      "ru": "Давай притворимся, что все дела могут подождать до понедельника."
+    },
+    "id": "mess-7c7550fa",
+    "isActive": true,
+    "showAt": "2026-11-13T22:00:00.000Z",
+    "title": {
+      "en": "I’ve been\nthinking… 👀",
+      "ru": "Я тут кое-что придумал… 👀"
+    }
   },
-  "id" : "mess-331afb8f",
-  "isActive" : false,
-  "showAt" : "2026-10-26T22:15:20.897Z",
-  "title" : {
-    "ru" : "Я тебя могн…"
+  {
+    "background": "coolBG",
+    "body": {
+      "en": "Until it’s out, let’s complete today’s side quests: eat, relax, and remember everything🤭",
+      "ru": "Но, для начала предлагаю\nпройти побочные задания:\nпоесть, отдохнуть и ничего\nне забыть🤭"
+    },
+    "id": "mess-e2d58263",
+    "isActive": true,
+    "showAt": "2026-11-18T22:00:00.000Z",
+    "title": {
+      "en": "Are you ready\nfor GTA 6? 🎮",
+      "ru": "Готовы\nк GTA 6? 🎮"
+    }
+  },
+  {
+    "background": "AchiClownBG",
+    "body": {
+      "en": "You can start the week with\none tiny task. Let’s leave\nthe big ones alone for now.",
+      "ru": "Сегодня можно начать неделю\nс маленького дела. Большие\nпока не трогаем."
+    },
+    "id": "mess-e76e530a",
+    "isActive": true,
+    "showAt": "2026-11-23T01:32:00.000Z",
+    "title": {
+      "en": "Important announcement! 📢",
+      "ru": "Важная\nновость! 🚨"
+    }
+  },
+  {
+    "background": "AchiClownBG",
+    "body": {
+      "en": "Complete one task and get… my admiration. No limits!",
+      "ru": "Выполни одно дело и получи… моё восхищение. Без ограничений!"
+    },
+    "id": "mess-426ac40f",
+    "isActive": true,
+    "showAt": "2026-11-26T23:00:00.000Z",
+    "title": {
+      "en": "Today only! A special offer! 🎁",
+      "ru": "🎁Дарю оффер\nна Black Friday!"
+    }
   }
-}
+]
