@@ -1,22 +1,20 @@
 {
   "action" : {
     "buttonTitle" : {
-      "en" : "Go in App Store",
-      "ru" : "Перейти в App Store"
+      "en" : "Create List",
+      "ru" : "Создать список"
     },
-    "type" : "url",
-    "url" : "https://golnk.ru/Bgp4Y"
+    "type" : "create"
   },
-  "background" : "RemoteEvent_BG",
   "body" : {
-    "en" : "Who’s there? It looks like an update. Let’s check?",
-    "ru" : "Кто там? Вроде как похоже\nна обновление. Проверим?"
+    "en" : "Shall we put together a list of what we need and what we don’t?",
+    "ru" : "Организуем список того что нам надо и не надо?"
   },
-  "id" : "mess-b59123cc",
-  "isActive" : false,
-  "showAt" : "2026-11-05T00:40:00.000Z",
+  "id" : "mess-440e955e",
+  "isActive" : true,
+  "showAt" : "2026-11-11T22:00:00.000Z",
   "title" : {
-    "en" : "Knocking!🚪✊",
-    "ru" : "Тук-тук!🚪✊"
+    "en" : "Big Sale\n11.11😱🛒",
+    "ru" : "Распродажа\n11.11😱🛒"
   }
 }
