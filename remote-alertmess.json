@@ -1,16 +1,13 @@
 [
   {
-    "background": "RemoteEvent_BG",
-    "body": {
-      "en": "What if we pretend all our tasks\ncan wait until Monday?",
-      "ru": "Давай притворимся, что все дела могут подождать до понедельника."
-    },
-    "id": "mess-7c7550fa",
-    "isActive": true,
-    "showAt": "2026-11-13T09:00:00+12:00",
-    "title": {
-      "en": "I’ve been\nthinking… 👀",
-      "ru": "Я тут кое-что придумал… 👀"
+  "body" : {
+    "ru" : "Можем просто спланировать неделю заранее или просто забить. Выбор за тобой 🙌"
+  },
+  "id" : "mess-be8794a2",
+  "isActive" : true,
+  "showAt" : "2026-11-16T09:00:00+12:00",
+  "title" : {
+    "ru" : "Понедельник\nдень тяжелый…"
     }
   },
   {
