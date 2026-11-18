@@ -1,16 +1,5 @@
 [
   {
-  "body" : {
-    "ru" : "Можем просто спланировать неделю заранее или просто забить. Выбор за тобой 🙌"
-  },
-  "id" : "mess-be8794a2",
-  "isActive" : true,
-  "showAt" : "2026-11-16T09:00:00+12:00",
-  "title" : {
-    "ru" : "Понедельник\nдень тяжелый…"
-    }
-  },
-  {
     "background": "coolBG",
     "body": {
       "en": "Until it’s out, let’s complete today’s side quests: eat, relax, and remember everything🤭",
@@ -51,5 +40,32 @@
       "en": "Today only! A special offer! 🎁",
       "ru": "🎁Дарю оффер\nна Black Friday!"
     }
+  },
+{
+  "body" : {
+    "en" : "I sure can. Especially when it’s time to crawl out from under the blanket 🥶",
+    "ru" : "Я вот чувствую. Особенно когда нужно вылезать из-под одеяла 🥶"
+  },
+  "id" : "mess-cffeeff0",
+  "isActive" : true,
+  "showAt" : "2026-11-28T09:00:00+12:00",
+  "title" : {
+    "en" : "Can you feel \nwinter coming?",
+    "ru" : "Чувствуешь приближение зимы? ☃"
   }
+},
+  {
+  "background" : "RemoteEvent_BG",
+  "body" : {
+    "en" : "Are you ready for winter? Something exciting is coming…",
+    "ru" : "А ты уже готовишься\nутепляться?🧣❄️"
+  },
+  "id" : "mess-d26fa2a9",
+  "isActive" : true,
+  "showAt" : "2026-11-30T09:00:00+12:00",
+  "title" : {
+    "en" : "Winter outfit\nready!🧣",
+    "ru" : "Уже ищю свой зимний костюм!"
+  }
+}  
 ]
